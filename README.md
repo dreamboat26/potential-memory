@@ -21,10 +21,6 @@ In this project, you'll train an image classifier to recognize different species
 
 *  python source file (util.py, train.py, predict.py)
 
-<b>Verified Certification:</b>
-
-You can check the certificate in the folder (Udacity_Certificate.pdf)
-
 <b>Packages:</b>
 
 As you go through the jupyter source file(jupyternotebook) you will find what you need to import, make sure to import the Packages.
